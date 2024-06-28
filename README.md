@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zikirillo268
+- 🌱 I’m currently learning C++ and developing skills
+- 📫 How to reach me zikirillo268@gmail.com
+- 💬 Ask me about C++
